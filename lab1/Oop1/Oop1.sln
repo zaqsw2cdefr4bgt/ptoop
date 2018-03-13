@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop1", "Oop1\Oop1.csproj", "{12869C5A-C1BC-4AE0-9893-6B615B8B892D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop1.Figures", "Oop1.Figures\Oop1.Figures.csproj", "{D8474A4C-E1AF-4E38-B180-4518407DD7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12869C5A-C1BC-4AE0-9893-6B615B8B892D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12869C5A-C1BC-4AE0-9893-6B615B8B892D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12869C5A-C1BC-4AE0-9893-6B615B8B892D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12869C5A-C1BC-4AE0-9893-6B615B8B892D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8474A4C-E1AF-4E38-B180-4518407DD7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8474A4C-E1AF-4E38-B180-4518407DD7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8474A4C-E1AF-4E38-B180-4518407DD7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8474A4C-E1AF-4E38-B180-4518407DD7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

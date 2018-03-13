@@ -1,0 +1,4 @@
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab1\Oop1\Oop1.Figures\bin\Debug\Oop1.Figures.dll
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab1\Oop1\Oop1.Figures\bin\Debug\Oop1.Figures.pdb
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab1\Oop1\Oop1.Figures\obj\Debug\Oop1.Figures.dll
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab1\Oop1\Oop1.Figures\obj\Debug\Oop1.Figures.pdb

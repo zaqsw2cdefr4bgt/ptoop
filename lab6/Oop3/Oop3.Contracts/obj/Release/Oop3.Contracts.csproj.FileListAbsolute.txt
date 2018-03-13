@@ -1,0 +1,4 @@
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Contracts\bin\Release\Oop3.Contracts.dll
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Contracts\bin\Release\Oop3.Contracts.pdb
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Contracts\obj\Release\Oop3.Contracts.dll
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Contracts\obj\Release\Oop3.Contracts.pdb

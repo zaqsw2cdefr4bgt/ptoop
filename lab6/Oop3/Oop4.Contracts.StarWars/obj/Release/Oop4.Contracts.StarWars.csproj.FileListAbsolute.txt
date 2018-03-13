@@ -1,0 +1,5 @@
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\Oop3\Oop3.PL\bin\Release\Plugins\Oop4.Contracts.StarWars.dll
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\Oop3\Oop3.PL\bin\Release\Plugins\Oop4.Contracts.StarWars.pdb
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop4.Contracts.StarWars\obj\Release\Oop4.Contracts.StarWars.csprojResolveAssemblyReference.cache
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop4.Contracts.StarWars\obj\Release\Oop4.Contracts.StarWars.dll
+C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop4.Contracts.StarWars\obj\Release\Oop4.Contracts.StarWars.pdb

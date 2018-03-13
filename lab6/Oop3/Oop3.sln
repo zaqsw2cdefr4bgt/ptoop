@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3.PL", "Oop3.PL\Oop3.PL.csproj", "{EC29E44A-CB18-4F77-A04B-3BCEFD1D62FB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A482F203-E015-400D-B56B-DCACA5DB0C66} = {A482F203-E015-400D-B56B-DCACA5DB0C66}
+		{9F848137-139A-4EF6-82EF-EA9505BDA640} = {9F848137-139A-4EF6-82EF-EA9505BDA640}
+		{4A17A497-F180-4247-942D-55A93BCEF823} = {4A17A497-F180-4247-942D-55A93BCEF823}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3.Contracts", "Oop3.Contracts\Oop3.Contracts.csproj", "{492BF93E-0737-4B21-9B2A-AC95B2BF3046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop3.Core", "Oop3.Core\Oop3.Core.csproj", "{426854E8-AE3C-4739-99FE-0E219593EC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop4.Contracts.StarWars", "Oop4.Contracts.StarWars\Oop4.Contracts.StarWars.csproj", "{A482F203-E015-400D-B56B-DCACA5DB0C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop6.WeirdContracts", "Oop6.WeirdContracts\Oop6.WeirdContracts.csproj", "{4A17A497-F180-4247-942D-55A93BCEF823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop6.Contracts.WeirdCreatures", "Oop6.Contracts.WeirdCreatures\Oop6.Contracts.WeirdCreatures.csproj", "{9F848137-139A-4EF6-82EF-EA9505BDA640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC29E44A-CB18-4F77-A04B-3BCEFD1D62FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC29E44A-CB18-4F77-A04B-3BCEFD1D62FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC29E44A-CB18-4F77-A04B-3BCEFD1D62FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC29E44A-CB18-4F77-A04B-3BCEFD1D62FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492BF93E-0737-4B21-9B2A-AC95B2BF3046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492BF93E-0737-4B21-9B2A-AC95B2BF3046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492BF93E-0737-4B21-9B2A-AC95B2BF3046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492BF93E-0737-4B21-9B2A-AC95B2BF3046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426854E8-AE3C-4739-99FE-0E219593EC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426854E8-AE3C-4739-99FE-0E219593EC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426854E8-AE3C-4739-99FE-0E219593EC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426854E8-AE3C-4739-99FE-0E219593EC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A482F203-E015-400D-B56B-DCACA5DB0C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A482F203-E015-400D-B56B-DCACA5DB0C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A482F203-E015-400D-B56B-DCACA5DB0C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A482F203-E015-400D-B56B-DCACA5DB0C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A17A497-F180-4247-942D-55A93BCEF823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A17A497-F180-4247-942D-55A93BCEF823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A17A497-F180-4247-942D-55A93BCEF823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A17A497-F180-4247-942D-55A93BCEF823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F848137-139A-4EF6-82EF-EA9505BDA640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F848137-139A-4EF6-82EF-EA9505BDA640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F848137-139A-4EF6-82EF-EA9505BDA640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F848137-139A-4EF6-82EF-EA9505BDA640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

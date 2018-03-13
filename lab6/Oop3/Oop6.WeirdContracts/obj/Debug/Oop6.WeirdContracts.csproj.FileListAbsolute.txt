@@ -1,0 +1,4 @@
+G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop3.PL\bin\Debug\Plugins\Oop6.WeirdContracts.dll
+G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop3.PL\bin\Debug\Plugins\Oop6.WeirdContracts.pdb
+G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop6.WeirdContracts\obj\Debug\Oop6.WeirdContracts.dll
+G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop6.WeirdContracts\obj\Debug\Oop6.WeirdContracts.pdb

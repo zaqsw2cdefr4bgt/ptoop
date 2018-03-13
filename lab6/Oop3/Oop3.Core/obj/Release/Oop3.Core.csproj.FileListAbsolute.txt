@@ -1,4 +1,0 @@
-C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Core\bin\Release\Oop3.Core.dll
-C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Core\bin\Release\Oop3.Core.pdb
-C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Core\obj\Release\Oop3.Core.dll
-C:\Users\Anton\YandexDisk\My\m2\2sem\oop\labs\lab4\Oop3\Oop3.Core\obj\Release\Oop3.Core.pdb

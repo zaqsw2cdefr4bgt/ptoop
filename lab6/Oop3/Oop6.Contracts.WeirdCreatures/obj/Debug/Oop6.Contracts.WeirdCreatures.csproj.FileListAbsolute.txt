@@ -1,5 +1,0 @@
-G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop3.PL\bin\Debug\Plugins\Oop6.Contracts.WeirdCreatures.dll
-G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop3.PL\bin\Debug\Plugins\Oop6.Contracts.WeirdCreatures.pdb
-G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop6.Contracts.WeirdCreatures\obj\Debug\Oop6.Contracts.WeirdCreatures.csprojResolveAssemblyReference.cache
-G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop6.Contracts.WeirdCreatures\obj\Debug\Oop6.Contracts.WeirdCreatures.dll
-G:\Yandex Disk\YandexDisk\My\m2\2sem\ptoop\lab6\Oop3\Oop6.Contracts.WeirdCreatures\obj\Debug\Oop6.Contracts.WeirdCreatures.pdb
